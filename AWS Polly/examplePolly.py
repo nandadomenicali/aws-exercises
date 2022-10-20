@@ -15,6 +15,6 @@ def aws_polly_tts():
         f.write(data)
 
 input_msg = input('msg >> ')
-name_id = 'Seoyeon'
+name_id = 'Amy'
 
 aws_polly_tts()
